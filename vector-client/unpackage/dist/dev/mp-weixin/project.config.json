@@ -5,7 +5,7 @@
   },
   "setting": {
     "urlCheck": false,
-    "es6": false,
+    "es6": true,
     "postcss": false,
     "minified": false,
     "newFeature": true,
@@ -29,15 +29,8 @@
       "list": []
     },
     "miniprogram": {
-      "current": 0,
-      "list": [
-        {
-          "id": 0,
-          "name": "pages/index/index",
-          "pathName": "pages/index/index",
-          "query": ""
-        }
-      ]
+      "current": -1,
+      "list": []
     }
   }
 }
